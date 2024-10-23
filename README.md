@@ -637,6 +637,7 @@
 - [Minitab](https://minitab.com)
 - [MioTech](https://miotech.com)
 - [Mish Guru](https://mish.guru)
+- [MindMap AI](https://mindmapai.app/) : AI-powered mind maps help you brainstorm with ease, turning complex thoughts into clear ideas.
 - [Mixpanel](https://mixpanel.com)
 - [MoBagel](https://mobagel.com)
 - [Mobvoi](https://mobvoi.com)
